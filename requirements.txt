@@ -1,0 +1,5 @@
+# Markdown to DOCX Converter
+# Python 3.8+ required
+
+python-docx>=0.8.11
+docx2pdf>=0.1.8
